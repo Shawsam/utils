@@ -2,7 +2,12 @@
   "name": "shaw_utils",
   "version": "1.0.0",
   "description": "common toolkit",
-  "keywords": ["utils", "format", "money", "phone"],
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Shawsam/utils.git"

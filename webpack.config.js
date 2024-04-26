@@ -5,6 +5,9 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'shaw_utils.js',
-    library: "shaw_utils",
+    library: {
+      name: 'shaw_utils',
+      type: 'umd',
+    }
   },
 };
